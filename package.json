@@ -76,10 +76,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KirBotz/SELF-KIR-TOD.git"
+    "url": "git+https://github.com/pinomodder/BasePino.git"
   },
   "bugs": {
-    "url": "https://github.com/KirBotz/SELF-KIR-TOD/issues"
+    "url": "https://github.com/pinomodder/BasePino/issues"
   },
-  "homepage": "https://github.com/KirBotz/SELF-KIR-TOD#readme"
+  "homepage": "https://github.com/pinomodder/BasePino#readme"
 }
