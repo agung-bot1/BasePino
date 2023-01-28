@@ -1,0 +1,30 @@
+----------------------------------------------------------------
+⚠️ Ganti Semua Di config.js
+⚠️ Gak Subrek Gak Work
+----------------------------------------------------------------
+
+Cara Pasang Lewat Termux
+
+termux-setup-storage
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+apt install mc -y
+mc
+(Ikuti tutor yg di vidio)
+unzip Script.zip
+cd Script
+npm start
+
+----------------------------------------------------------------
+✅ CARA PASANG
+🤡 SUBREK: https://youtu.be/KhDSMuktcY0
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+🔥 Yang Mau Buy Method/Cara
+🔥 Banned Nomer WhatsApp Bisa
+🔥 Langsung Ke Tele Saya
+🔥 Telegram: https://t.me/pinomodz
+----------------------------------------------------------------
